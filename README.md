@@ -64,7 +64,7 @@ plt.ylabel("Y-Data")
 plt.legend(['Data points', 'Regression Line'])
 plt.show()
 ~~~
-**#Input**
+# Input
 ~~~
 Enter the values of X separated by space  
 25 28 35 32 31 36 29 38 34 32
@@ -81,5 +81,5 @@ The Regression Y on X is Y = -0.664 ( X - 32.000) + 38.000
 ~~~
 ![image](https://github.com/user-attachments/assets/c11a853d-e5ba-4232-8358-ea096c362896)
 
-**#Result**
+# Result
 Thus the program is implemented and Executed Successfully
